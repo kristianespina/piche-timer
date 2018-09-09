@@ -1,0 +1,15 @@
+html,body {
+    height: 100%;
+}
+
+@font-face {
+    font-family: Grinched;
+    src: url('../resources/GrinchedRegular.otf') format('opentype');
+}
+
+.font-grinched {
+    font-family: 'Grinched';
+}
+.flask {
+    margin-bottom: 2rem;
+}
